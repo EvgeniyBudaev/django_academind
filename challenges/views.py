@@ -6,7 +6,8 @@ from django.urls import reverse
 monthly_challenges = {
   'january': "This is january",
   'february': "This is february!",
-  'march': "This is march!"
+  'march': "This is march!",
+  'april': None
 }
 
 
